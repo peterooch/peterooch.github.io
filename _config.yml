@@ -1,0 +1,9 @@
+baseurl: ""
+url: "https://peterooch.github.io"
+
+defaults:
+ - scope:
+    path: "incs/imgs"
+    values:
+    images: true
+

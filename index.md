@@ -1,4 +1,8 @@
-﻿## Baruch's GitHub Page
+﻿---
+title: Baruch's GitHub Page
+layout: none
+---
+## Baruch's GitHub Page
 
 [The commited](commits.md)
 [Snapshots of forks](snapshots.md)
