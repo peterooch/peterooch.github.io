@@ -1,6 +1,6 @@
 ﻿---
-title: Baruch's GitHub Page
 layout: none
+title: Baruch's GitHub Page
 ---
 ## Baruch's GitHub Page
 
