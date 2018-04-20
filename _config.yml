@@ -1,4 +1,5 @@
 baseurl: ""
 url: "https://peterooch.github.io"
+markdown: kramdown
 
 
