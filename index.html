@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="pages">
-  {% for item in site.pages %}
+  {% assign sortedpages = site.pages | sort: 'order' %}
+  {% for item in sortedpages %}
   {% if item.mainpage == true %}
   <a href="{{ item.permalink }}">{{ item.title }}</a><br/>
   {% endif %}
